@@ -18,6 +18,8 @@ The **Genetics and Evolution Quiz** is an interactive quiz application designed 
 ![Quiz Page](https://github.com/user-attachments/assets/7fd917e4-d7a4-4eec-8800-73847387e47e)
 ![Result Page](https://github.com/user-attachments/assets/b3adc746-1c20-4567-b5c8-859c2864649b)
 
+https://github.com/user-attachments/assets/3e6c4ccc-c4cf-42fe-95ee-d847db57f3fd
+
 ## Setup Instructions
 
 Follow these steps to get the project up and running:
@@ -86,4 +88,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 If you encounter any issues or have further questions, feel free to open an issue or contact me!
+
+
+
+
 

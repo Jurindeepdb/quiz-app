@@ -1,0 +1,135 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf4e3;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .start-screen {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .start-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .start-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Quiz Page Styles */
+  .quiz-page {
+    margin-top: 60px;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+  }
+  
+  .timer,
+  .questions-attempted {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .questions-container {
+    margin-top: 20px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .question-text {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .option {
+    margin-left: 20px;
+  }
+  
+  .option-checkbox {
+    margin-right: 10px;
+  }
+  
+  .option-label {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #888;
+  }
+  
+  /* Result Page Styles */
+  .result-page {
+    text-align: center;
+    margin-top: 60px;
+  }
+  
+  .score-title,
+  .attempted-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .retake-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #FF6347;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .retake-button:hover {
+    background-color: #FF4500;
+  }
+  

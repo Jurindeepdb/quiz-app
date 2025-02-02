@@ -21,6 +21,7 @@ Screenshots of the UI are provided below-
 
 
 A video walkthrough of the app is provided below- 
+
 https://github.com/user-attachments/assets/3e6c4ccc-c4cf-42fe-95ee-d847db57f3fd
 
 ## Setup Instructions
